@@ -62,7 +62,3 @@ TDTRP is designed for **Windows environments** and relies on Winsock2 for TCP ne
 
 ## 10. Conclusion
 The *Time Data and Text Retrieval Protocol (TDTRP)* provides a structured method for textual data retrieval over TCP/IP, with detailed performance metrics (RTT and server processing time) that allow for in-depth operation analysis. Its design balances efficiency with functionality, making it suitable for scenarios requiring reliable text data exchange and performance monitoring.
-
----
-
-This document outlines the protocol, operational details, and technical requirements for TDTRP, making it a valuable addition to portfolios focused on network programming and systems performance analysis.
