@@ -41,7 +41,3 @@ The *Time Data and Text Retrieval Protocol (TDTRP)* is a C-based client-server a
 
 ## TDTRP Protocol Specification
 See the full protocol specification in [docs/TDTRP_Specification.md](TDTRP_Specification.md).
-
----
-
-This project showcases skills in low-level network programming, C-based TCP/IP communication, and performance profiling, making it an ideal addition to portfolios focused on systems and network engineering.
