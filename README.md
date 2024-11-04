@@ -40,7 +40,7 @@ The *Time Data and Text Retrieval Protocol (TDTRP)* is a C-based client-server a
 - `TCP_BlockingServer.c` – Manages server operations, request handling, and response formatting.
 
 ## TDTRP Protocol Specification
-See the full protocol specification in [docs/TDTRP_Specification.md](docs/TDTRP_Specification.md).
+See the full protocol specification in [docs/TDTRP_Specification.md](TDTRP_Specification.md).
 
 ---
 
